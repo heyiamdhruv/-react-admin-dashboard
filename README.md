@@ -9,13 +9,5 @@ This is a boilerplate codebase for creating a React Admin Dashboard App using Re
 - **Data Grid**: Integrate Data Grid for displaying tabular data efficiently.
 - **Light & Dark Mode**: Implement both light and dark themes for user preference.
 
-## Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/username/react-admin-dashboard.git
-
-
 ## License
 This project is licensed under the MIT License.
