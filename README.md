@@ -16,5 +16,6 @@ This is a boilerplate codebase for creating a React Admin Dashboard App using Re
 ```bash
 git clone https://github.com/username/react-admin-dashboard.git
 
-License
+
+## License
 This project is licensed under the MIT License.
